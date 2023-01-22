@@ -14,5 +14,6 @@ public  class dz1 {
         }
         System.out.println("Max = " + max);
         System.out.println("Min = " + min);
+        System.out.println("dv");
     }
 }
