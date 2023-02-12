@@ -15,6 +15,7 @@ public class Laptop {
         this.ram = ram;
         this.price = price;
         this.seller = seller;
+
     }
 
     public void setSeller(String seller){ seller = seller;

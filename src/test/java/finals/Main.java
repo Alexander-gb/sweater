@@ -37,7 +37,6 @@ public class Main {
 
             for (int i = 0; i < laptops.size() ; i++) {
                 Laptop currentLaptop = laptops.get(i);
-
                 if(currentLaptop.getPrice() <= number){
                     System.out.println("Model:" + currentLaptop.getName() + " Price " +currentLaptop.getPrice()+ " Seller "+currentLaptop.getSeller()+ " RAM "+currentLaptop.getRam());
                 }
